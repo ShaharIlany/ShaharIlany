@@ -3,8 +3,7 @@
   <p>🧙🏻‍ Shahar Ilany</p>
   <p>🌲 Northern District, 🇮🇱 Israel</p>
   <p>♒︎ Aquarius</p>
-  <p>🧡 <a href="https://firstisrael.org.il/ftc" target="_blank"><i>FIRST</i> Tech Challenge Israel</a> FTA</p>
-  <p>✍🏻 Full Stack Developer at <a href="https://sps.co.il" target="_blank">Smart Paperless Solutions</a></p>
+  <p>🧡 <i>FIRST</i> Technical Advisor @ <a href="https://firstisrael.org.il/ftc" target="_blank">FTC Israel</a></p>
   <p>😻 Cats Lover</p>
   <p>❤️ Frameworks: React, Next.JS, FastAPI</p>
  </div>
