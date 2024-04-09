@@ -5,5 +5,5 @@
   <p>♒︎ Aquarius</p>
   <p>🧡 <i>FIRST</i> Technical Advisor @ <a href="https://firstisrael.org.il/ftc" target="_blank">FTC Israel</a></p>
   <p>😻 Cats Lover</p>
-  <p>❤️ Frameworks: React, Next.JS, FastAPI</p>
+  <p>❤️ Frameworks: React, Next.JS</p>
  </div>
